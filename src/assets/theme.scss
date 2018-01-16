@@ -1,0 +1,31 @@
+@import 'vars';
+
+@import 'fonts/style'; 
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.mdi {
+  padding: 3px;
+  font-size: 1.5rem; 
+}

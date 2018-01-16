@@ -1,0 +1,997 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"mar",
+				"margin	(theme.scss)"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"back",
+				"background-color	(App.vue)"
+			],
+			[
+				"step",
+				"steps"
+			],
+			[
+				"he",
+				"height	(App.vue)"
+			],
+			[
+				"fi",
+				"fixed	(App.vue)"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"k",
+				"keyCode"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding	(waves.scss)"
+			],
+			[
+				"log",
+				"logmatic-blue"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"loa",
+				"loader"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"re",
+				"reload	(cube_internal.js)"
+			],
+			[
+				"call",
+				"callback	(cube.js)"
+			],
+			[
+				"su",
+				"substring"
+			],
+			[
+				"lo",
+				"loader"
+			],
+			[
+				"on",
+				"onLoad	(cube.js)"
+			],
+			[
+				"last",
+				"lastUpdate	(cube.js)"
+			],
+			[
+				"la",
+				"lastUpdate"
+			],
+			[
+				"resol",
+				"resolver"
+			],
+			[
+				"init",
+				"initialize"
+			],
+			[
+				"fir",
+				"firstLoad	(controller.js)"
+			],
+			[
+				"first",
+				"firstLoading"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"modu",
+				"moduleId"
+			],
+			[
+				"api",
+				"apikey"
+			],
+			[
+				"analy",
+				"analysis"
+			],
+			[
+				"ana",
+				"analysis"
+			],
+			[
+				"opt",
+				"optionsVm"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"con",
+				"console	(controller.js)"
+			],
+			[
+				"is",
+				"isFiltered"
+			],
+			[
+				"DEF",
+				"DEFAULT_PALETTE"
+			],
+			[
+				"shadow",
+				"shadow-1dp"
+			],
+			[
+				"dark",
+				"dark-lighten"
+			],
+			[
+				"logm",
+				"logmatic-grey-100"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"shado",
+				"shadow-3dp	(_variables.scss)"
+			],
+			[
+				"sha",
+				"shadow-1dp	(style.scss)"
+			],
+			[
+				"P",
+				"ProductCategorie	(container.config.php)"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"media",
+				"mediaContainer"
+			],
+			[
+				"logmatic-g",
+				"logmatic-grey-50"
+			],
+			[
+				"secon",
+				"second-nav-background-color"
+			],
+			[
+				"logmatic",
+				"logmatic-grey-50"
+			],
+			[
+				"second",
+				"second-nav-width"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"border-raius",
+				"border-radius-xs-value"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bl",
+				"blue-grey-50"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/App.vue",
+			"settings":
+			{
+				"buffer_size": 3372,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/components/7_TheForce.vue",
+			"settings":
+			{
+				"buffer_size": 1287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/theme.scss",
+			"settings":
+			{
+				"buffer_size": 320,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/romain/dev/log/logmatic-pitch",
+		"/Users/romain/dev/log/logmatic-pitch/node_modules/eslint-config-airbnb/rules",
+		"/Users/romain/dev/log/logmatic-pitch/node_modules/node-waves/src/scss",
+		"/Users/romain/dev/log/logmatic-pitch/src",
+		"/Users/romain/dev/log/logmatic-pitch/src/assets",
+		"/Users/romain/dev/log/logmatic-pitch/src/components"
+	],
+	"file_history":
+	[
+		"/Users/romain/dev/log/logmatic-pitch/src/components/6_LogWars.vue",
+		"/Users/romain/dev/log/logmatic-pitch/src/components/2_TriForce.vue",
+		"/Users/romain/dev/log/logmatic-pitch/src/components/5_CryInLog.vue",
+		"/Users/romain/dev/log/logmatic-pitch/src/components/4_TheDragon.vue",
+		"/Users/romain/dev/log/logmatic-pitch/src/components/3_SaintGrale.vue",
+		"/Users/romain/dev/log/logmatic-pitch/src/components/1_Story.vue",
+		"/Users/romain/dev/log/logmatic-pitch/node_modules/eslint-config-airbnb/rules/errors.js",
+		"/Users/romain/dev/log/logmatic-pitch/index.html",
+		"/Users/romain/dev/log/logmatic-pitch/src/assets/fonts/_style.scss",
+		"/Users/romain/dev/log/logmatic-pitch/src/components/Hello.vue",
+		"/Users/romain/dev/log/logmatic-pitch/src/assets/_vars.scss",
+		"/Users/romain/dev/log/logmatic-pitch/src/config-router.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/quickstart/custom/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/schema/templates.html",
+		"/Users/romain/dev/log/app-logs/client/modules/pages/app/index.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/homepage/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/schema/controller.js",
+		"/Users/romain/Google Drive/DA Romain/Send your logs - sources logos/logo source 80x80/logo_source_android_white.png",
+		"/Users/romain/Google Drive/DA Romain/Send your logs - sources logos/logo source 80x80/logo_source_android.png",
+		"/Users/romain/Google Drive/DA Romain/Send your logs - sources logos/logo source 80x80/logo_source_android_white@2x.png",
+		"/Users/romain/Google Drive/DA Romain/Send your logs - sources logos/logo source 80x80/logo_source_android@2x.png",
+		"/Users/romain/dev/log/app-logs/package.json",
+		"/Users/romain/dev/log/app-logs/client/modules/components/workbench/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/schema/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/md/cube_internal.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/dashboards/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/dashboards/workbench/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/md/cube.js",
+		"/Users/romain/dev/log/app-logs/client/modules/md/definition.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/admin/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/container/view.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/documents/doccontrollerbase.js",
+		"/Users/romain/dev/log/app-logs/client/modules/core/track.js",
+		"/Users/romain/dev/log/app-logs/client/modules/md/quickRanges/view.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/dashboards/workbench/view.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/documents/catalog.js",
+		"/Users/romain/dev/log/app-logs/client/modules/md/filter-badge/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/context/views.js",
+		"/Users/romain/dev/log/app-logs/client/modules/md/helpers.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/timeseries/widget.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/workbench/view.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/table/widget.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/sankey/widget.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/phrases/view.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/multiview/widget.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/model/drillthrough.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/ordinal/widget.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/maps/widget.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/list/widget.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/drillthrough/widget.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/drillthrough/view.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/widgetbase.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/containerwidgetbase.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/bookmarks/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/alerts/models.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/alerts/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/preprocessing.js",
+		"/Users/romain/dev/log/app-logs/shared/md/cube.js",
+		"/Users/romain/dev/log/app-logs/client/_variables.scss",
+		"/Users/romain/dev/log/app-logs/Readme.md",
+		"/Users/romain/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/romain/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/romain/dev/log/app-logs/client/modules/pages/app/frame.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/table/view.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/apikeys/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/apikeys/templates.html",
+		"/Users/romain/dev/log/app-logs/client/modules/draw/series.renderer.toolbox.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/model/fieldinfo.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/multiview/view.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/endpoints/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/input/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/quickstart/custom/view.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/new-account/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/workbench/style.scss",
+		"/Users/romain/dev/log/app-logs/client/bower_components/backbone/backbone.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/workbench/templates.html",
+		"/Users/romain/dev/log/app-logs/client/modules/components/documents/templates.html",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/timeline/widget.js",
+		"/Users/romain/dev/log/app-logs/shared/core/utils.js",
+		"/Users/romain/dev/log/app-logs/client/modules/core/log.js",
+		"/Users/romain/dev/log/app-logs/client/config.dev.js",
+		"/Users/romain/dev/log/app-logs/client/modules/core/popups/index.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/usersPage/templates.html",
+		"/Users/romain/dev/log/app-logs/client/modules/components/usersPage/controller.js",
+		"/Users/romain/dev/log/app-logs/client/modules/draw/new.renderer.toolbox.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/dashboards/workbench/templates.html",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/phrases/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/model/modifiers.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/admin/style.scss",
+		"/Users/romain/dev/log/app-logs/shared/core/color.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/workbench/filter/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/core/tooltipBase.js",
+		"/Users/romain/dev/log/app-logs/client/modules/draw/layers/xreticule.js",
+		"/Users/romain/dev/log/app-logs/client/_bootstrap.overrides.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/timeseries/style.css",
+		"/Users/romain/dev/log/app-logs/client/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_tooltip.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/core/img/logo_blackbg.png",
+		"/Users/romain/dev/log/app-logs/client/modules/core/popups/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/quickstart/custom/templates.html",
+		"/Users/romain/dev/log/app-logs/server/alerts/comprehensive.html",
+		"/Users/romain/dev/log/app-logs/server/alerts/testMail.html",
+		"/Users/romain/dev/log/app-logs/config.js",
+		"/Users/romain/dev/log/app-logs/client/modules/components/dashboards/workbench/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/workbench/advfilter/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/new-account/templates.html",
+		"/Users/romain/dev/log/app-logs/client/modules/components/new-account/style.scss",
+		"/Users/romain/dev/log/app-logs/.gitignore",
+		"/Users/romain/dev/log/app-logs/client/modules/core/popups/style.css",
+		"/Users/romain/dev/log/app-logs/client/modules/components/quickstart/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/homepage/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/md/filter-badge/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/drillthrough/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/context/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/md/quickRanges/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/components/widget/container/style.scss",
+		"/Users/romain/dev/log/app-logs/client/modules/md/style.scss",
+		"/Users/romain/dev/ws/freshprimeur.fr/shared/ressources/Models/ProductCategorie.php",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/app/routes.php",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/app/templates/components/navigation.twig",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/app/templates/gallery/gallery.twig",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/app/templates/gallery/product.twig",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/assets/sass/modules/_navigation-bar.scss",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/assets/sass/_base.scss",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/assets/sass/_mixin.scss",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/assets/js/product.js",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/assets/sass/main.scss",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/assets/sass/components/_crop-frame.scss",
+		"/Users/romain/dev/ws/freshprimeur.fr/client/app/templates/our.twig"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"<current file>",
+			"client/*.js",
+			"<current file>",
+			"client/*.js",
+			"client/*",
+			"cliemt/*",
+			"<current file>",
+			"client/*",
+			"client/*.html",
+			"client/*",
+			"client/*.js",
+			"client/*",
+			"client/*.scss",
+			"client/*.js",
+			"client/*",
+			"<current file>",
+			"*",
+			"<current file>",
+			"client/*.scss",
+			"",
+			"client/*.scss",
+			"*.scss",
+			"",
+			"client/modules",
+			"client/modules/*",
+			"client/modules/*.scss",
+			"./client/modules/*.scss",
+			"app-logs/client/modules/*.scss",
+			"client/modules/*.scss",
+			"client/modules/**/*.scss",
+			"client/modules/*.scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"console",
+			"url('",
+			"iis",
+			"entry",
+			"firstLeaf",
+			"filtered",
+			"selector",
+			"filtered",
+			"filter",
+			"beforeUnload",
+			"modified = true",
+			"popupOpts.callback",
+			"submit",
+			"submit()",
+			"track",
+			"cube",
+			"RightTray",
+			"setRightTray",
+			"initialize: function",
+			"object",
+			"track",
+			"'remove'",
+			"track",
+			"go_on",
+			"self",
+			".load()",
+			"loadDocument",
+			"_applyCurrent",
+			"_document",
+			"_apply",
+			".load(",
+			"initialize",
+			"_applyCurrent(",
+			".load(",
+			"load",
+			"cube.cube",
+			"/cube",
+			"/definition",
+			"(\\.\\./cube|md/cube)",
+			"[../cube|md/cube]",
+			"cube",
+			"cube.load",
+			"cube",
+			"md/cube\"",
+			"md/cube'",
+			"ignore",
+			"\"([a-zA-Z0-9.,'\\(\\)/#\\-_:;=! ]*)\"",
+			"\"([a-zA-Z0-9.,'\\(\\)/#\\-_:! ]*)\"",
+			"bootstrap.overrides",
+			"go_on",
+			"init",
+			"go_on",
+			"manage-fields-metrics-groups",
+			"doc =",
+			"manage-fields-metrics-groups",
+			"doc =",
+			"doc",
+			"docLink",
+			"doc:",
+			"area",
+			"metric",
+			"refresh",
+			"select",
+			"haslegend",
+			"tooltip",
+			"dim.id",
+			"list",
+			"onAddAlert",
+			"viewType",
+			"change_widget",
+			"'Off'",
+			"'update'",
+			"purge",
+			"track",
+			"'events'",
+			"realtime",
+			"track",
+			"load",
+			"track",
+			"save",
+			"track",
+			"remove",
+			"You are about to delete",
+			"remove",
+			"remove analysis",
+			"remove saved analysis",
+			"Remove Saved Analysis",
+			"_save",
+			"_edit",
+			"save",
+			"filter",
+			"range",
+			"track",
+			"csv",
+			"export",
+			"phrase::select",
+			"update",
+			"send",
+			"save",
+			"added",
+			"ADD_BOOKMARK",
+			"add",
+			"trigger",
+			"ADD_ALERT",
+			"alerts:",
+			"alerts:add",
+			"alert:add",
+			"tarckerLoadApp",
+			"console",
+			"loading",
+			"bookmark",
+			"track",
+			"());",
+			"SearchBar",
+			"_searchBar",
+			"search",
+			"tag_id",
+			"console.log",
+			"filters",
+			"filter",
+			"filters",
+			"filter",
+			"filters",
+			"this.extractRange",
+			"s._document.set(\"data.range\"",
+			"s._document.set(\"data.range\",th",
+			".set",
+			"_dimension.set"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url($path + '",
+			"'$1'",
+			"CFD8DC",
+			"\"border-top: 1px solid #546E7A;\"",
+			"{{",
+			"}}",
+			"{{",
+			"$dark",
+			"$logmatic-grey",
+			"$logmatic-blue",
+			"$logmatic-grey-100",
+			"$logmatic-grey-50",
+			"$logmatic-orange",
+			"$logmatic-blue"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1131,
+								1131
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".js",
+								"current_syntax": "JavaScript/JavaScript",
+								"enabled": false,
+								"last_updated": 1463557702.18
+							},
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								902,
+								902
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"rgba",
+									"hex",
+									"rgb",
+									"webcolors",
+									"hsl",
+									"hsla",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".vue",
+								"current_syntax": "Vue Syntax Highlight/vue",
+								"enabled": true,
+								"last_updated": 1463557702.18,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/7_TheForce.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"rgba",
+									"hex",
+									"rgb",
+									"webcolors",
+									"hsl",
+									"hsla",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".vue",
+								"current_syntax": "Vue Syntax Highlight/vue",
+								"enabled": true,
+								"last_updated": 1463557702.18,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"open_with_edit": true,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/assets/theme.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"rgba",
+									"hex",
+									"rgb",
+									"webcolors",
+									"hsl",
+									"hsla",
+									"hex_compressed"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".scss",
+								"current_syntax": "SCSS/SCSS",
+								"enabled": true,
+								"last_updated": 1463557702.18,
+								"scan_completion_scopes":
+								[
+									"source.scss -comment -string",
+									"source.sass -comment -string"
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css.sass -comment -string",
+									"constant.other.rgb-value.sass -comment -string",
+									"constant.other.color.rgb-value.scss -comment -string",
+									"constant.other.color.rgb-value.scss",
+									"support.constant.color.w3c-standard-color-name.scss",
+									"meta.property-value.scss",
+									"sass-script-maps -variable.other -comment -string"
+								],
+								"use_hex_argb": false
+							},
+							"open_with_edit": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "pitch-logmatic.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 905.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
